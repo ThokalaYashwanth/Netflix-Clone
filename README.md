@@ -1,6 +1,6 @@
-# Kedarflix
+# netlix
 
-Kedarflix is a Netflix-style streaming UI built with Next.js. It includes authentication, profile selection, a featured title banner, movie browsing, a details modal, a watch page, and a favorites list backed by MongoDB through Prisma.
+netlix is a Netflix-style streaming UI built with Next.js. It includes authentication, profile selection, a featured title banner, movie browsing, a details modal, a watch page, and a favorites list backed by MongoDB through Prisma.
 
 ## Tech Stack
 
