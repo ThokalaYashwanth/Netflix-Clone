@@ -2,7 +2,6 @@
 
 Netflix-inspired streaming platform clone built with Next.js and Tailwind CSS.
 
-A Netflix-inspired streaming platform clone built using modern web technologies.
 
 ## Features
 - User authentication
